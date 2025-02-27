@@ -50,7 +50,7 @@
 
   ## 🔖Notes
 
-  - Ensure that keywords are embedded in white text inside the presentation files.
+- Ensure that keywords are embedded in white text inside the presentation files.
     
 - This project is a proof-of-concept and may require further refinement for production use.
 
