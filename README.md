@@ -52,12 +52,11 @@
 - Ensure that keywords are embedded in white text inside the presentation files.
 - This project is a proof-of-concept and may require further refinement for production use.
 
-  ## 📜License
+## 📜License
 This project is licensed under the MIT License.
 
-  ## 🤝Contributing
+## 🤝Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
-  ## 📬Contact
-
+## 📬Contact
 For any queries or suggestions, feel free to open an issue or reach out at - arkajyotichakraborty99@gmail.com.
