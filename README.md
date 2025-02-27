@@ -2,17 +2,26 @@
   Deckorator is a proof-of-concept (PoC) tool that allows users to upload and process presentation files. It utilizes keyword-based search functionality to identify and extract relevant slides from the uploaded decks.
   ## ✨Features
 
-    ✅ Upload any presentation file and search for content using embedded keywords.
-    ✅ Keyword-based filtering: The tool identifies slides based on keywords that are embedded in white text within the deck.
-    ✅ Selection and extraction: Users can select relevant slides and download them as a new presentation.
-    ✅ Automated processing: The system processes slides efficiently to deliver accurate search results.
-    ✅ Watermark removal: Ensures clean and professional output by eliminating unwanted watermarks.
+  ✅ Upload any presentation file and search for content using embedded keywords.
+  
+  ✅ Keyword-based filtering: The tool identifies slides based on keywords that are embedded in white text within the deck.
+  
+  ✅ Selection and extraction: Users can select relevant slides and download them as a new presentation.
+  
+  ✅ Automated processing: The system processes slides efficiently to deliver accurate search results.
+  
+  ✅ Watermark removal: Ensures clean and professional output by eliminating unwanted watermarks.
+  
 
   ## 🛠️How It Works
     1️⃣ Upload a presentation file.
+    
     2️⃣ Use the search bar to find relevant slides based on pre-embedded keywords.
+    
     3️⃣ Select slides from the matching results.
+    
     4️⃣ Download the selected slides as a new presentation file.
+    
 
   ## 🚀Installation & Usage
 
