@@ -14,13 +14,13 @@
   
 
   ## 🛠️How It Works
-    1️⃣ Upload a presentation file.
+  1️⃣ Upload a presentation file.
     
-    2️⃣ Use the search bar to find relevant slides based on pre-embedded keywords.
+  2️⃣ Use the search bar to find relevant slides based on pre-embedded keywords.
     
-    3️⃣ Select slides from the matching results.
+  3️⃣ Select slides from the matching results.
     
-    4️⃣ Download the selected slides as a new presentation file.
+  4️⃣ Download the selected slides as a new presentation file.
     
 
   ## 🚀Installation & Usage
