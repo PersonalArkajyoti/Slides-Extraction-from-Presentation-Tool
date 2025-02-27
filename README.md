@@ -18,9 +18,9 @@
 
   ### Clone this repository:
 
-    git clone https://github.com/your-username/deckorator-v2.1.git
-    cd deckorator-v2.1
-
+    git clone https://github.com/PersonalArkajyoti/Slides-Extraction-from-Presentation-Tool.git
+    cd Slides-Extraction-from-Presentation-Tool
+    
   ### Install dependencies:
 
     pip install -r requirements.txt
