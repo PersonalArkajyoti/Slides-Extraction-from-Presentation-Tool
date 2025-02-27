@@ -37,6 +37,7 @@
   ###  Run the application:
 
     streamlit run app.py
+    
   Upload a presentation file and search for relevant slides using keywords.
 
   ## 📌Requirements
@@ -49,15 +50,16 @@
 
   ## 🔖Notes
 
-    - Ensure that keywords are embedded in white text inside the presentation files.
-    - This project is a proof-of-concept and may require further refinement for production use.
+  - Ensure that keywords are embedded in white text inside the presentation files.
+    
+- This project is a proof-of-concept and may require further refinement for production use.
 
   ## 📜License
 
-    This project is licensed under the MIT License.
+  This project is licensed under the MIT License.
 
   ## 🤝Contributing
-    Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
+  Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
   ## 📬Contact
 
